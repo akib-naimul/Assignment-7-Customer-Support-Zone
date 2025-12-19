@@ -1,4 +1,5 @@
-Live Site Link : 
+Live Site Link :  https://assignment7-customer-support-zone.netlify.app/
+
 This project is a React-based Customer Support Ticket System built using Vite, React, Tailwind CSS, and daisyUI. It allows users to manage customer tickets, track in-progress tasks, and mark tickets as resolved.
 
 Q1. What is JSX, and why is it used?
