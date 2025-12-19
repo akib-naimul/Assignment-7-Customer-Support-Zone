@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account.",
+    "customer": "John Smith",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failed - Card Declined",
+    "description": "Payment keeps failing despite sufficient balance.",
+    "customer": "Sarah Johnson",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-16"
+  },
+  {
+    "id": 1003,
+    "title": "Unable to Download Invoice",
+    "description": "Invoice download button is not responding.",
+    "customer": "Michael Brown",
+    "priority": "MEDIUM",
+    "status": "In-Progress",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Billing Address",
+    "description": "Billing address not updating correctly.",
+    "customer": "Emily Davis",
+    "priority": "LOW",
+    "status": "Open",
+    "createdAt": "2024-01-18"
+  },
+  {
+    "id": 1005,
+    "title": "App Crash on Launch",
+    "description": "Mobile app crashes on Android 13.",
+    "customer": "David Wilson",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-19"
+  },
+  {
+    "id": 1006,
+    "title": "Refund Not Processed",
+    "description": "Refund requested but not received.",
+    "customer": "Sophia Taylor",
+    "priority": "MEDIUM",
+    "status": "In-Progress",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 1007,
+    "title": "Two-Factor Authentication Issue",
+    "description": "2FA codes not received.",
+    "customer": "James Anderson",
+    "priority": "HIGH",
+    "status": "Open",
+    "createdAt": "2024-01-21"
+  },
+  {
+    "id": 1008,
+    "title": "Unable to Update Profile Picture",
+    "description": "Profile image upload fails.",
+    "customer": "Olivia Martinez",
+    "priority": "LOW",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription Auto-Renewal",
+    "description": "Auto-renew toggle disabled.",
+    "customer": "Liam Thomas",
+    "priority": "MEDIUM",
+    "status": "In-Progress",
+    "createdAt": "2024-01-23"
+  },
+  {
+    "id": 1010,
+    "title": "Missing Order Confirmation Email",
+    "description": "No confirmation email received.",
+    "customer": "Isabella Garcia",
+    "priority": "MEDIUM",
+    "status": "Open",
+    "createdAt": "2024-01-24"
+  }
+]
